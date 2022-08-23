@@ -6,8 +6,9 @@ import json
 from random import choice
 
 # load bot token from gitignore file
-
-token = "NzkwNTQwMDUxMzA5Mzk1OTY4.X-CFyw.94uRrWK3zEKmbd0WgY5C9YYVIec"
+with open(".gitignore\config.json") as file:
+    config = json.load(file)
+token = config['token']
 
 # initialize bot
 intents = discord.Intents.all()
@@ -49,7 +50,8 @@ async def mock(ctx, arg=None):
                 for act_num, activity in enumerate(ctx.message.mentions[user_num].activities):
                     if ctx.message.mentions[user_num].activities[act_num].type == discord.ActivityType.listening:
                         text = mock_text(f"{ctx.message.mentions[user_num].name} "
-                                         f"is listening to {ctx.message.mentions[user_num].activities[act_num].title}")
+                                         f"is listening to {ctx.message.mentions[user_num].activities[act_num].title} "
+                                         f"on spotify")
                         await ctx.send(text)
                     elif ctx.message.mentions[user_num].activities[act_num].type == discord.ActivityType.playing:
                         text = mock_text(f"{ctx.message.mentions[user_num].name} "
