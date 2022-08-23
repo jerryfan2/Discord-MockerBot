@@ -1,0 +1,243 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"with",
+				"with_if_statement"
+			],
+			[
+				"Value",
+				"ValueTooLowError"
+			],
+			[
+				"combin",
+				"combinations_with_replacement"
+			],
+			[
+				"draw_",
+				"draw_grass"
+			],
+			[
+				"cell",
+				"cell_size"
+			],
+			[
+				"head",
+				"head_right"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/jerry/Desktop/Disc.py",
+		"/C/Users/jerry/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/jerry/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/jerry/Desktop/Work/PyScripts/Discord Mock Bot/bot.py",
+		"/C/Users/jerry/Desktop/Work/School/Secondary School/Grade 12 - 2020-2021/Capstone Project/PyScripts/Login System/logincode.py",
+		"/C/Users/jerry/Desktop/Work/PyScripts/Projects/Pong Game/pong.py",
+		"/C/Users/jerry/Desktop/Work/School/Secondary School/Grade 12 - 2020-2021/Capstone Project/PyScripts/test.py",
+		"/C/Users/jerry/Desktop/Work/PyScripts/Projects/Pygame Snake/snake.py",
+		"/C/Users/jerry/Desktop/Work/PyScripts/new_names.csv",
+		"/C/Users/jerry/Desktop/Work/PyScripts/app1.py",
+		"/C/Users/jerry/Desktop/Simple Calculator.py",
+		"/C/Users/jerry/Desktop/Work/PyScripts/app2.py",
+		"/C/Users/jerry/Desktop/Work/PyScripts/Pong Game/pong.py",
+		"/C/Users/jerry/Desktop/Work/PyScripts/Pygame Snake/snake.py",
+		"/C/Users/jerry/Desktop/Pong Game/pong.py",
+		"/C/Users/jerry/Desktop/Work/PyScripts/app5.py",
+		"/C/Users/jerry/Desktop/Work/PyScripts/app4.py",
+		"/C/Users/jerry/Desktop/Work/PyScripts/test.txt",
+		"/C/Users/jerry/AppData/Roaming/Sublime Text 3/Packages/SublimeREPL/SublimeREPL.sublime-settings",
+		"/C/Users/jerry/AppData/Roaming/Sublime Text 3/Packages/User/SublimeREPL.sublime-settings",
+		"/C/Users/jerry/AppData/Roaming/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+		"/C/Users/jerry/AppData/Roaming/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/C/Users/jerry/Desktop/Work/PyScripts/test_calc.py",
+		"/C/Users/jerry/Desktop/Work/PyScripts/test_employee.py",
+		"/C/Users/jerry/Desktop/Work/PyScripts/testing.log",
+		"/C/Users/jerry/Desktop/Work/PyScripts/app3.py",
+		"/C/Users/jerry/Desktop/Work/School/Grade 12 - 2020-2021/Capstone Project/PyScripts/hangman.py",
+		"/C/Users/jerry/Desktop/Work/School/Grade 12 - 2020-2021/Capstone Project/PyScripts/Login System/logincode.py",
+		"/C/Users/jerry/Desktop/Work/School/Grade 12 - 2020-2021/Capstone Project/PyScripts/test.py",
+		"/C/Users/jerry/Desktop/Work/PyScripts/csv_test.csv",
+		"/C/Users/jerry/Desktop/Work/School/Grade 12 - 2020-2021/Capstone Project/PyScripts/logincode.py",
+		"/C/Users/jerry/AppData/Roaming/Sublime Text 3/Packages/User/SublimeREPL-python.sublime-build",
+		"/C/Users/jerry/AppData/Roaming/Sublime Text 3/Packages/User/PythonRepl.sublime-build",
+		"/C/Users/jerry/AppData/Roaming/Sublime Text 3/Packages/User/PythonREPL.sublime-build",
+		"/C/Users/jerry/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/jerry/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"build",
+			"ctrl+alt+c",
+			"ctrl+alt+",
+			"ctrl+alt+c",
+			"ctrl+alt"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 53.3333333333
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "bot.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
