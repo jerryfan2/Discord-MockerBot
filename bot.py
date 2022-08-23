@@ -6,9 +6,8 @@ import json
 from random import choice
 
 # load bot token from gitignore file
-with open(".gitignore\config.json") as file:
-    config = json.load(file)
-token = config['token']
+
+token = "NzkwNTQwMDUxMzA5Mzk1OTY4.X-CFyw.94uRrWK3zEKmbd0WgY5C9YYVIec"
 
 # initialize bot
 intents = discord.Intents.all()
